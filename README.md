@@ -35,4 +35,9 @@ Certifique-se de ter o [Java Development Kit (JDK)](https://www.oracle.com/java/
 ### Passos
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone [https://github.com/Haniel01001/BurroType.git](https://github.com/Haniel01001/BurroType.git)
+   
+## 👨‍💻 Desenvolvido por
+
+* **Haniel Nasiniak de Souza** - [Haniel01001](https://github.com/Haniel01001)
+* Disciplina: Programação 2
